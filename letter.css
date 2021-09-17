@@ -8,19 +8,21 @@
 		.leftbar {
 			background: black;
 			width: 50px;
-			height: 400px;
+			height: 415px;
 			position: absolute;
 			left: 400px;
-			top: 100px;
+			top: 95px;
+			border-radius: 25px;
 		}
 
 		.rightbar {
 			background: black;
 			width: 50px;
-			height: 400px;
+			height: 415px;
 			position: absolute;
 			left: 100px;
-			top: 100px;
+			top: 95px;
+			border-radius: 25px;
 		}
 
 		.diagonal {
@@ -333,6 +335,83 @@
 		}
 
 
+		.tl_square {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 250px;
+			top: 125px;
+		}
+
+		.tl_circle {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 230px;
+			top: 125px;
+			border-radius: 25px;
+		}
+
+		.tl_square2 {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 320px;
+			top: 125px;
+		}
+
+		.tl_circle2 {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 320px;
+			top: 125px;
+			border-radius: 25px;
+		}
+
+		.bl_square {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 250px;
+			top: 455px;
+		}
+
+		.bl_circle {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 230px;
+			top: 435px;
+			border-radius: 25px;
+		}
+
+		.bl_square2 {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 320px;
+			top: 455px;
+		}
+
+		.bl_circle2 {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 320px;
+			top: 435px;
+			border-radius: 25px;
+		}
+
+
 .letter-6 {
 	position: relative;
 	border: 1px solid #000;
@@ -345,7 +424,7 @@
 		width: 50px;
 		height: 50px;
 		position: absolute;
-		left: 215px;
+		left: 221px;
 		top: 16px;
 		border-radius: 25px;
 	}
@@ -360,7 +439,51 @@
 		border-radius: 25px;
 	}
 
+.letter-7 {
+	position: relative;
+	border: 1px solid #000;
+	width: 600px;
+	height: 600px;
+}
 
+	.bottom_bar {
+		background: black;
+		width: 490px;
+		height: 50px;
+		position: absolute;
+		left: 40px;
+		top: 484px;
+		border-radius: 25px;
+	}
+
+	.small_tail {
+		background: black;
+		width: 50px;
+		height: 115px;
+		position: absolute;
+		left: 483px;
+		top: 484px;
+		border-radius: 25px;
+	}
+
+	.curve_circle {
+		background: white;
+		width: 40px;
+		height: 40px;
+		position: absolute;
+		left: 443px;
+		top: 534px;
+		border-radius: 25px;
+	}
+
+	.curve_square {
+		background: black;
+		width: 20px;
+		height: 20px;
+		position: absolute;
+		left: 463px;
+		top: 534px;
+	}
 
 
 
