@@ -230,11 +230,6 @@
 					}
 
 			
-
-
-
-
-
 .letter-3 {
 	position: relative;
 	border: 1px solid #000;
@@ -249,6 +244,82 @@
 			position: absolute;
 			left: 125px;
 			top: 255px;
+		}
+
+		.square01 {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 150px;
+			top: 235px;
+		}
+
+		.circle01 {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 150px;
+			top: 215px;
+			border-radius: 25px;
+		}
+
+		.square02 {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 150px;
+			top: 305px;
+		}
+
+		.circle02 {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 150px;
+			top: 305px;
+			border-radius: 25px;
+		}
+
+		.square03 {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 380px;
+			top: 235px;
+		}
+
+		.circle03 {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 360px;
+			top: 215px;
+			border-radius: 25px;
+		}
+
+		.square04 {
+			background: black;
+			width: 20px;
+			height: 20px;
+			position: absolute;
+			left: 380px;
+			top: 305px;
+		}
+
+		.circle04 {
+			background: white;
+			width: 40px;
+			height: 40px;
+			position: absolute;
+			left: 360px;
+			top: 305px;
+			border-radius: 25px;
 		}
 
 
