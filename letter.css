@@ -29,8 +29,8 @@
 			height: 420px;
 			position: absolute;
 			left: 410px;
-			top: 130px;
-			transform: rotate(45deg);
+			top: 141px;
+			transform: rotate(47deg);
 			transform-origin: 0% 0%;
 		}
 
@@ -74,16 +74,162 @@
 			border-radius: 25px;
 		}
 
-/*
-				.curve {
-					background: black;
-					width: 50px;
-					height: 50px;
+				.circle_tl {
+					background: white;
+					width: 40px;
+					height: 40px;
 					position: absolute;
-
+					left: 60px;
+					top: 120px;
+					border-radius: 25px;
 				}
 
-*/
+
+				.square_tl {
+					background: black;
+					width: 20px;
+					height: 20px;
+					position: absolute;
+					left: 80px;
+					top: 120px;
+				}
+
+				.circle_tl2 {
+					background: white;
+					width: 40px;
+					height: 40px;
+					position: absolute;
+					left: 150px;
+					top: 120px;
+					border-radius: 25px;
+				}
+
+				.square_tl2 {
+					background: black;
+					width: 20px;
+					height: 20px;
+					position: absolute;
+					left: 150px;
+					top: 120px;
+				}
+
+					.circle_tr {
+						background: white;
+						width: 40px;
+						height: 40px;
+						position: absolute;
+						left: 360px;
+						top: 120px;
+						border-radius: 25px;
+					}
+
+					.square_tr {
+						background: black;
+						width: 20px;
+						height: 20px;
+						position: absolute;
+						left: 380px;
+						top: 120px;
+					}
+
+					.circle_tr2 {
+						background: white;
+						width: 40px;
+						height: 40px;
+						position: absolute;
+						left: 450px;
+						top: 120px;
+						border-radius: 25px;
+					}
+
+					.square_tr2 {
+						background: black;
+						width: 20px;
+						height: 20px;
+						position: absolute;
+						left: 450px;
+						top: 120px;
+					}
+
+					.circle_bl {
+						background: white;
+						width: 40px;
+						height: 40px;
+						position: absolute;
+						left: 60px;
+						top: 444px;
+						border-radius: 25px;
+					}
+
+					.square_bl {
+						background: black;
+						width: 20px;
+						height: 20px;
+						position: absolute;
+						left: 80px;
+						top: 464px;
+					}
+
+					.circle_bl2 {
+						background: white;
+						width: 40px;
+						height: 40px;
+						position: absolute;
+						left: 150px;
+						top: 444px;
+						border-radius: 25px;
+					}
+
+					.square_bl2 {
+						background: black;
+						width: 20px;
+						height: 20px;
+						position: absolute;
+						left: 150px;
+						top: 464px;
+					}
+
+					.circle_br {
+						background: white;
+						width: 40px;
+						height: 40px;
+						position: absolute;
+						left: 360px;
+						top: 444px;
+						border-radius: 25px;
+					}
+
+					.square_br {
+						background: black;
+						width: 20px;
+						height: 20px;
+						position: absolute;
+						left: 380px;
+						top: 465px;
+					}
+
+					.circle_br2 {
+						background: white;
+						width: 40px;
+						height: 40px;
+						position: absolute;
+						left: 450px;
+						top: 444px;
+						border-radius: 25px;
+					}
+
+					.square_br2 {
+						background: black;
+						width: 20px;
+						height: 20px;
+						position: absolute;
+						left: 450px;
+						top: 464px;
+					}
+
+			
+
+
 
 
 
