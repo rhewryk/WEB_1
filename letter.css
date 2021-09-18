@@ -3,6 +3,7 @@
 	border: 1px solid #000;
 	width: 600px;
 	height: 600px;
+	display: inline-block;
 }
 
 		.leftbar {
@@ -235,6 +236,7 @@
 	border: 1px solid #000;
 	width: 600px;
 	height: 600px;
+	display: inline-block;
 }
 
 		.middlebar {
@@ -328,6 +330,7 @@
 	border: 1px solid #000;
 	width: 600px;
 	height: 600px;
+	display: inline-block;
 }
 		.topbar {
 			background: black;
@@ -343,6 +346,7 @@
 	border: 1px solid #000;
 	width: 600px;
 	height: 600px;
+	display: inline-block;
 }
 
 		.left_diagonal {
@@ -373,6 +377,7 @@
 	border: 1px solid #000;
 	width: 600px;
 	height: 600px;
+	display: inline-block;
 }
 
 		.mainbar {
@@ -488,6 +493,7 @@
 	border: 1px solid #000;
 	width: 600px;
 	height: 600px;
+	display: inline-block;
 }
 
 	.l_dot {
@@ -515,6 +521,7 @@
 	border: 1px solid #000;
 	width: 600px;
 	height: 600px;
+	display: inline-block;
 }
 
 	.bottom_bar {
