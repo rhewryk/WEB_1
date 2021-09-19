@@ -1346,6 +1346,101 @@
 					border-radius: 25px;
 				}
 
+				.trm_square02 {
+					background: black;
+					width: 20px;
+					height: 20px;
+					position: absolute;
+					left: 490px;
+					top: 120px;
+				}
+
+				.trm_circle02 {
+					background: white;
+					width: 40px;
+					height: 40px;
+					position: absolute;
+					left: 490px;
+					top: 120px;
+					border-radius: 25px;
+				}
+
+				.blm_square01 {
+					background: black;
+					width: 20px;
+					height: 20px;
+					position: absolute;
+					left: 50px;
+					top: 460px;
+				}
+
+				.blm_circle01 {
+					background: white;
+					width: 40px;
+					height: 40px;
+					position: absolute;
+					left: 30px;
+					top: 440px;
+					border-radius: 25px;
+				}
+
+				.blm_square02 {
+					background: black;
+					width: 20px;
+					height: 20px;
+					position: absolute;
+					left: 120px;
+					top: 460px;
+				}
+
+				.blm_circle02 {
+					background: white;
+					width: 40px;
+					height: 40px;
+					position: absolute;
+					left: 120px;
+					top: 440px;
+					border-radius: 25px;
+				}
+
+				.brm_square01 {
+					background: black;
+					width: 20px;
+					height: 20px;
+					position: absolute;
+					left: 420px;
+					top: 460px;
+				}
+
+				.brm_circle01 {
+					background: white;
+					width: 40px;
+					height: 40px;
+					position: absolute;
+					left: 400px;
+					top: 440px;
+					border-radius: 25px;
+				}
+
+				.brm_square02 {
+					background: black;
+					width: 20px;
+					height: 20px;
+					position: absolute;
+					left: 490px;
+					top: 460px;
+				}
+
+				.brm_circle02 {
+					background: white;
+					width: 40px;
+					height: 40px;
+					position: absolute;
+					left: 490px;
+					top: 440px;
+					border-radius: 25px;
+				}
+
 
 
 
