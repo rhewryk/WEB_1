@@ -1251,7 +1251,7 @@
 
 		.m_top_left {
 			background: black;
-			width: 170px;
+			width: 150px;
 			height: 50px;
 			position: absolute;
 			left: 10px;
@@ -1261,10 +1261,10 @@
 
 		.m_top_right {
 			background: black;
-			width: 170px;
+			width: 150px;
 			height: 50px;
 			position: absolute;
-			left: 380px;
+			left: 400px;
 			top: 70px;
 			border-radius: 25px;
 		}
@@ -1440,6 +1440,61 @@
 					top: 440px;
 					border-radius: 25px;
 				}
+
+					.left_diagonal_ {
+						background: black;
+						width: 50px;
+						height: 482px;
+						position: absolute;
+						left: 104px;
+						top: 80px;
+						border-radius: 25px;
+						transform: rotate(-18deg);
+						transform-origin: 0% 0%;
+					}
+
+					.right_diagonal_ {
+						background: black;
+						width: 50px;
+						height: 482px;
+						position: absolute;
+						left: 408px;
+						top: 65px;
+						border-radius: 25px;
+						transform: rotate(18deg);
+						transform-origin: 0% 0%;
+					}
+
+					.middle_bottom_bar {
+						background: black;
+						width: 65px;
+						height: 50px;
+						position: absolute;
+						left: 247px;
+						top: 483px;
+						border-radius: 25px;
+					}
+
+					/*	.ld_square {
+							background: black;
+							width: 50px;
+							height: 87px;
+							position: absolute;
+							left: 110px;
+							top: 130px;
+						}
+
+						.ld_circle {
+							background: white;
+							width: 29px;
+							height: 30px;
+							position: absolute;
+							left: 120px;
+							top: 204px;
+							border-radius: 25px;
+						}
+
+						*/
 
 
 
