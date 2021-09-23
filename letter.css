@@ -2654,6 +2654,75 @@
 		}
 
 
+.letter-ч {
+	position: relative;
+	border: 1px solid #000;
+	width: 600px;
+	height: 600px;
+	display: inline-block;
+}
+
+				.top_bowl_shape {
+					width: 200px;
+					height: 190px;
+					border:  50px solid #000;
+					border-bottom-left-radius: 400px;
+					border-bottom-right-radius: 400px;
+					border-top: none;
+					position: absolute;
+					top: 110px;
+					left: 150px;
+				}
+
+
+					.top_left_line {
+						background: black;
+						width: 180px;
+						height: 50px;
+						position: absolute;
+						top: 70px;
+						left: 85px;
+						border-radius: 25px;
+					}
+
+						.top_left_line_left_square {
+							background: black;
+							width: 20px;
+							height: 20px;
+							position: absolute;
+							top: 120px;
+							left: 130px;
+						}
+
+						.top_left_line_left_circle {
+							background: white;
+							width: 40px;
+							height: 40px;
+							position: absolute;
+							top: 120px;
+							left: 110px;
+							border-radius: 25px;
+						}
+
+						.top_left_line_right_square {
+							background: black;
+							width: 20px;
+							height: 20px;
+							position: absolute;
+							top: 120px;
+							left: 200px;
+						}
+
+						.top_left_line_right_circle {
+							background: white;
+							width: 40px;
+							height: 40px;
+							position: absolute;
+							top: 120px;
+							left: 200px;
+							border-radius: 25px;
+						}
+
 
 
 
