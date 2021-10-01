@@ -2,118 +2,131 @@
 #y-1 {
 	position: absolute;
 	left: 0px;
-	top: 300px;
+	top: 700px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #v-1 {
 	position: absolute;
 	left: -75px;
-	top: 410px;
+	top: 810px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #s-1 {
 	position: absolute;
 	left: 110px;
-	top: 145px;
+	top: 545px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #t-1 {
 	position: absolute;
 	left: 195px;
-	top: 35px;
+	top: 435px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #a-1 {
 	position: absolute;
 	left: 272px;
-	top: -92px;
+	top: 308px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #v-2 {
 	position: absolute;
 	left: 393px;
-	top: -255px;
+	top: 145px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #k-1 {
 	position: absolute;
 	left: 465px;
-	top: -360px;
+	top: 40px;
 	transform: scale(.5) rotate(-55deg);
 }
 
-
-/*#a-3 {
+#a-3 {
+	position: absolute;
+	left: 540px;
+	top: -80px;
+	transform: scale(.5) rotate(-55deg);
 
 }
-*/
+
+
+
+
+
+
+
 
 
 #m-1 {
 	position: absolute;
 	left: 200px;
-	top: 1550px;
+	top: 2850px;
 	transform: scale(1) rotate(-55deg);
 }
 
 #o-1 {
 	position: absolute;
 	left: 400px;
-	top: 1250px;
+	top: 2550px;
 	transform: scale(1) rotate(-55deg);
 }
 
 #d-1 {
 	position: absolute;
 	left: 620px;
-	top: 945px;
+	top: 2245px;
 	transform: scale(1) rotate(-55deg);
 }
 
 #e-1 {
 	position: absolute;
 	left: 852px;
-	top: 615px;
+	top: 1915px;
 	transform: scale(1) rotate(-55deg);
 }
 
 #r-1 {
 	position: absolute;
 	left: 1045px;
-	top: 335px;
+	top: 1635px;
 	transform: scale(1) rotate(-55deg);
 }
 
 #n-1 {
 	position: absolute;
 	left: 1175px;
-	top: 155px;
+	top: 1455px;
 	transform: scale(1) rotate(-55deg);
 }
 
 #o-2 {
 	position: absolute;
 	left: 1345px;
-	top: -120px;
+	top: 1180px;
 	transform: scale(1) rotate(-55deg);
 }
 
 #h-1 {
 	position: absolute;
-	left: 1570px;
-	top: -455px;
+	left: 1596px;
+	top: 874px;
 	transform: scale(1) rotate(-55deg);
 }
 
-/*#o-3 {
+#o-3 {
+	position: absolute;
+	left: 1710px;
+	top: 690px;
+	transform: scale(1) rotate(-55deg);
 
-}*/
+}
 
 
 
@@ -121,39 +134,65 @@
 #m-2 {
 	position: absolute;
 	left: 500px;
-	top: 3200px;
+	top: 5500px;
 	transform: scale(1.5) rotate(-55deg);
 }
 
 #y-2 {
 	position: absolute;
 	left: 902px;
-	top: 2623px;
+	top: 4923px;
 	transform: scale(1.5) rotate(-55deg);
 }
 
 #s-2 {
 	position: absolute;
 	left: 1200px;
-	top: 2170px;
+	top: 4470px;
 	transform: scale(1.5) rotate(-55deg);
 }
 
 #t-2 {
 	position: absolute;
 	left: 1430px;
-	top: 1825px;
+	top: 4125px;
 	transform: scale(1.5) rotate(-55deg);
 }
 
 #e-2 {
 	position: absolute;
 	left: 1795px;
-	top: 1280px;
+	top: 3580px;
 	transform: scale(1.5) rotate(-55deg);
 }
 
+#c-1 {
+	position: absolute;
+	left: 2095px;
+	top: 3160px;
+	transform: scale(1.5) rotate(-55deg);
+}
 
+#t-3 {
+	position: absolute;
+	left: 2455px;
+	top: 2675px;
+	transform: scale(1.5) rotate(-55deg);
+}
+
+#v-3 {
+	position: absolute;
+	left: 2820px;
+	top: 2130px;
+	transform: scale(1.5) rotate(-55deg);
+}
+
+#a-2 {
+	position: absolute;
+	left: 2990px;
+	top: 1850px;
+	transform: scale(1.5) rotate(-55deg);
+}
 
 
 
