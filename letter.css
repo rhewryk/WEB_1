@@ -1,6 +1,6 @@
 .letter-и {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -232,7 +232,7 @@
 
 .letter-н {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -325,7 +325,7 @@
 
 .letter-п {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -341,7 +341,7 @@
 
 .letter-х {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -371,7 +371,7 @@
 
 .letter-і {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -486,7 +486,7 @@
 
 .letter-ї {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -514,7 +514,7 @@
 
 .letter-ц {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -561,7 +561,7 @@
 
 .letter-г {
 	position: relative;
-	border:  1px solid #000;
+/*	border:  1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -626,7 +626,7 @@
 
 .letter-ґ {
 	position: relative;
-	border:  1px solid #000;
+	/*border:  1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -682,7 +682,7 @@
 
 .letter-ш {
 	position: relative;
-	border:  1px solid #000;
+/*	border:  1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -988,7 +988,7 @@
 
 .letter-щ {
 	position: relative;
-	border:  1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1025,7 +1025,7 @@
 
 .letter-т {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1151,7 +1151,7 @@
 
 .letter-е {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1293,7 +1293,7 @@
 
 .letter-м {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1527,7 +1527,7 @@
 
 .letter-у {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1576,7 +1576,7 @@
 
 .letter-а {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1638,7 +1638,7 @@
 
 .letter-ф {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1659,7 +1659,7 @@
 
 .letter-o {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1677,7 +1677,7 @@
 
 .letter-д {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1861,7 +1861,7 @@
 
 .letter-л {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -1988,7 +1988,7 @@
 
 .letter-ю {
 	position: relative;
-	border:  1px solid #000;
+	/*border:  1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2055,7 +2055,7 @@
 
 .letter-в {
 	position: relative;
-	border:  1px solid #000;
+	/*border:  1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2110,7 +2110,7 @@
 						height: 20px;
 						position: absolute;
 						left: 150px;
-						top: 325px;
+						top: 324px;
 					}
 
 					.bottom_bottom_left_corner_circle {
@@ -2119,13 +2119,13 @@
 						height: 40px;
 						position: absolute;
 						left: 150px;
-						top: 325px;
+						top: 324px;
 						border-radius: 25px;
 					}
 
 .letter-р {
 	position: relative;
-	border:  1px solid #000;
+	/*border:  1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2151,7 +2151,7 @@
 
 .letter-є {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2240,7 +2240,7 @@
 
 .letter-ь {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2280,7 +2280,7 @@
 						height: 40px;
 						position: absolute;
 						left: 150px;
-						top: 235px;
+						top: 234px;
 						border-radius: 25px;
 					}
 
@@ -2290,7 +2290,7 @@
 						height: 20px;
 						position: absolute;
 						left: 150px;
-						top: 325px;
+						top: 324px;
 					}
 
 					.inside_circle {
@@ -2299,12 +2299,12 @@
 						height: 40px;
 						position: absolute;
 						left: 150px;
-						top: 325px;
+						top: 324px;
 						border-radius: 25px;
 					}
 .letter-c {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2365,7 +2365,7 @@
 
 .letter-з {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2451,7 +2451,7 @@
 										}
 .letter-к {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2483,7 +2483,7 @@
 
 .letter-я {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2514,7 +2514,7 @@
 
 .letter-б {
 	position: relative;
-	border: 1px solid #000;
+/*	border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2561,7 +2561,7 @@
 							}
 .letter-й {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2602,7 +2602,7 @@
 
 .letter-ж {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
@@ -2652,11 +2652,50 @@
 			border-radius: 25px;
 			transform: rotate(-35deg);
 		}
+					.serif_top_left {
+						background: black;
+						width: 150px;
+						height: 50px;
+						position: absolute;
+						top: 50px;
+						left: 5px;
+						border-radius: 25px;
+					}
+
+					.serif_top_right {
+						background: black;
+						width: 150px;
+						height: 50px;
+						position: absolute;
+						top: 50px;
+						left: 430px;
+						border-radius: 25px;
+					}
+
+					.serif_bottom_left {
+						background: black;
+						width: 150px;
+						height: 50px;
+						position: absolute;
+						top: 490px;
+						left: 0px;
+						border-radius: 25px;
+					}
+
+					.serif_bottom_right {
+						background: black;
+						width: 150px;
+						height: 50px;
+						position: absolute;
+						top: 490px;
+						left: 445px;
+						border-radius: 25px;
+					}
 
 
 .letter-ч {
 	position: relative;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	width: 600px;
 	height: 600px;
 	display: inline-block;
