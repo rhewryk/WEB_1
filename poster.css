@@ -1,3 +1,42 @@
+/*
+.container {
+	position: relative;
+	width: 100vw;
+	overflow-x: hidden;
+}
+
+
+
+*/
+
+
+/*.first-text {
+	
+}
+*/
+
+.description {
+	position: absolute;
+	left: 100px;
+	top: 200px;
+	max-width: 100px;
+}
+
+.second-text {
+	position: absolute;
+	left: 950px;
+	top: 260px;
+	max-width: 200px;
+	transform: rotate(-55deg);
+}
+
+
+
+
+
+
+
+
 
 #y-1 {
 	position: absolute;
