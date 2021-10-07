@@ -81,6 +81,37 @@
 
 
 
+.red_line_01 {
+	position: absolute;
+	width: 3px;
+	height: 630px;
+	left: 987px;
+	top: 8px;
+	background: red;
+	transform: rotate(34deg);
+}
+
+.red_line_02 {
+	position: absolute;
+	width: 3px;
+	height: 850px;
+	left: 1050px;
+	top: 3155px;
+	background: red;
+	transform: rotate(-54deg);
+}
+
+.red_line_03 {
+	position: absolute;
+	width: 3px;
+	height: 700px;
+	left: 1260px;
+	top: 5790px;
+	background: red;
+}
+
+
+
 
 
 
