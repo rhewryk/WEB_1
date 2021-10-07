@@ -17,26 +17,26 @@
 
 .description {
 	position: absolute;
-	left: 1300px;
+	left: 1150px;
 	top: 300px;
 	max-width: 250px;
-	transform: scale(2);
+	transform: scale(2) rotate(34deg);
 	text-align: left;
 }
 
 .description2 {
 	position: absolute;
-	left: 1200px;
-	top: 3000px;
+	left: 1100px;
+	top: 3100px;
 	width: 250px;
-	transform: scale(2) rotate(36deg);
+	transform: scale(2) rotate(-54deg)/* rotate(36deg)*/;
 	text-align: left;
 }
 
 .description3 {
 	position: absolute;
-	left: 2700px;
-	top: 4500px;
+	left: 1400px;
+	top: 5950px;
 	width: 200px;
 	transform: scale(2);
 	text-align: left;
