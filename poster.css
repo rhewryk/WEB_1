@@ -17,8 +17,8 @@
 }
 
 @media (max-width: 1000px) {
-	.sizing {
-		background: red;
+	.description {
+		transform: rotate(0);
 	}
 }
 
@@ -30,6 +30,9 @@
 	max-width: 250px;
 	transform: scale(2) rotate(34deg);
 	text-align: left;
+	border-left: 2px solid red;
+	padding-left: 1em;
+	font-family: sans-serif;
 }
 
 .description2 {
@@ -39,6 +42,9 @@
 	width: 250px;
 	transform: scale(2) rotate(-54deg)/* rotate(36deg)*/;
 	text-align: left;
+	border-left: 2px solid red;
+	padding-left: 1em;
+	font-family: sans-serif;
 }
 
 .description3 {
@@ -47,21 +53,24 @@
 	top: 5950px;
 	width: 200px;
 	transform: scale(2);
+	border-left: 2px solid red;
+	padding-left: 1em;
 	text-align: left;
+	font-family: sans-serif;
 }
 
 
 .red_shape_01 {
-	position: absolute;
+	position: fixed;
 	width: 35px;
-	height: 3300px;
+	height: 550px;
 	left: 0px;
 	top: 0px;
 	background: red;
 }
 
 .red_shape_02 {
-	position: absolute;
+	position: fixed;
 	width: 550px;
 	height: 35px;
 	left: 0px;
@@ -70,59 +79,22 @@
 }
 
 .red_shape_03 {
-	position: absolute;
-	width: 585px;
+	position: fixed;
+	width: 550px;
 	height: 35px;
-	top: 6500px;
-	left: 3200px;
+	bottom: 0;
+	right: 0;
 	background: red;
 }
 
 .red_shape_04 {
-	position: absolute;
+	position: fixed;
 	width: 35px;
-	height: 3300px;
-	left: 3750px;
-	top: 3200px;
+	height: 550px;
+	bottom: 0;
+	right: 0;
 	background: red;
 }
-
-
-
-.red_line_01 {
-	position: absolute;
-	width: 3px;
-	height: 630px;
-	left: 987px;
-	top: 8px;
-	background: red;
-	transform: rotate(34deg);
-}
-
-.red_line_02 {
-	position: absolute;
-	width: 3px;
-	height: 850px;
-	left: 1050px;
-	top: 3155px;
-	background: red;
-	transform: rotate(-54deg);
-}
-
-.red_line_03 {
-	position: absolute;
-	width: 3px;
-	height: 700px;
-	left: 1260px;
-	top: 5790px;
-	background: red;
-}
-
-
-
-
-
-
 
 
 
