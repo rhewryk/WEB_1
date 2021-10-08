@@ -16,9 +16,9 @@
 	height: 6500px;
 }
 
-@media (max-width: 1000px) {
-	.description {
-		transform: rotate(0);
+@media (max-width: 500px) {
+	.body{
+		transform: scale(.7);
 	}
 }
 
@@ -27,7 +27,7 @@
 	position: absolute;
 	left: 1150px;
 	top: 300px;
-	max-width: 250px;
+	width: 250px;
 	transform: scale(2) rotate(34deg);
 	text-align: left;
 	border-left: 20px solid red;
@@ -48,9 +48,9 @@
 }
 
 .description3 {
-	position: absolute;
+	position: relative;
 	left: 1400px;
-	top: 5950px;
+	top: 2050px;
 	width: 200px;
 	transform: scale(2);
 	border-left: 20px solid red;
@@ -96,67 +96,80 @@
 	background: red;
 }
 
-/*.letter_1 {
-	position: absolute;
-	transform: scale(.5) rotate(-55deg);
-}*/
 
-#y-1 {
-	position: absolute;
-	left: 0px;
-	top: 700px;
-	transform: scale(.5) rotate(-55deg);
-}
+	.first_div {
+		position: relative;
+	}
 
-#v-1 {
-	position: absolute;
-	left: -75px;
-	top: 810px;
-	transform: scale(.5) rotate(-55deg);
-}
+									.text_one {
+										position: relative;
+										top: -5px;
+										left: -650px;
+									}
 
-#s-1 {
-	position: absolute;
-	left: 110px;
-	top: 545px;
-	transform: scale(.5) rotate(-55deg);
-}
 
-#t-1 {
-	position: absolute;
-	left: 195px;
-	top: 435px;
-	transform: scale(.5) rotate(-55deg);
-}
+									.word_1 {
+										position: relative;
+										left: -500px;
+										top: -120px;
+									}
 
-#a-1 {
-	position: absolute;
-	left: 272px;
-	top: 308px;
-	transform: scale(.5) rotate(-55deg);
-}
+									#y-1 {
+										position: absolute;
+										left: 0px;
+										top: 700px;
+										transform: scale(.5) rotate(-55deg);
+									}
 
-#v-2 {
-	position: absolute;
-	left: 393px;
-	top: 145px;
-	transform: scale(.5) rotate(-55deg);
-}
+									#v-1 {
+										position: absolute;
+										left: -75px;
+										top: 810px;
+										transform: scale(.5) rotate(-55deg);
+									}
 
-#k-1 {
-	position: absolute;
-	left: 465px;
-	top: 40px;
-	transform: scale(.5) rotate(-55deg);
-}
+									#s-1 {
+										position: absolute;
+										left: 110px;
+										top: 545px;
+										transform: scale(.5) rotate(-55deg);
+									}
 
-#a-3 {
-	position: absolute;
-	left: 540px;
-	top: -80px;
-	transform: scale(.5) rotate(-55deg);
+									#t-1 {
+										position: absolute;
+										left: 195px;
+										top: 435px;
+										transform: scale(.5) rotate(-55deg);
+									}
 
-}
+									#a-1 {
+										position: absolute;
+										left: 272px;
+										top: 308px;
+										transform: scale(.5) rotate(-55deg);
+									}
+
+									#v-2 {
+										position: absolute;
+										left: 393px;
+										top: 145px;
+										transform: scale(.5) rotate(-55deg);
+									}
+
+									#k-1 {
+										position: absolute;
+										left: 465px;
+										top: 40px;
+										transform: scale(.5) rotate(-55deg);
+									}
+
+									#a-3 {
+										position: absolute;
+										left: 540px;
+										top: -80px;
+										transform: scale(.5) rotate(-55deg);
+
+									}
 
 
 
@@ -168,70 +181,106 @@ head {
 */
 
 
+	.second_div {
+		position: relative;
+	}
 
 
-#m-1 {
-	position: absolute;
-	left: 200px;
-	top: 2850px;
-	transform: scale(1) rotate(-55deg);
+									.text_two {
+										position: relative;
+										left: -700px;
+										top: 60px;
+									}
+
+									.word_2 {
+										position: relative;
+										top: 190px;
+										left: -600px;
+									}
+
+
+									#m-1 {
+										position: absolute;
+										left: 200px;
+										top: 2850px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#o-1 {
+										position: absolute;
+										left: 400px;
+										top: 2550px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#d-1 {
+										position: absolute;
+										left: 620px;
+										top: 2245px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#e-1 {
+										position: absolute;
+										left: 852px;
+										top: 1915px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#r-1 {
+										position: absolute;
+										left: 1045px;
+										top: 1635px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#n-1 {
+										position: absolute;
+										left: 1175px;
+										top: 1455px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#o-2 {
+										position: absolute;
+										left: 1345px;
+										top: 1180px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#h-1 {
+										position: absolute;
+										left: 1596px;
+										top: 874px;
+										transform: scale(1) rotate(-55deg);
+									}
+
+									#o-3 {
+										position: absolute;
+										left: 1710px;
+										top: 690px;
+										transform: scale(1) rotate(-55deg);
+
+									}
+
+
+.third_div {
+	position: relative;
 }
 
-#o-1 {
-	position: absolute;
-	left: 400px;
-	top: 2550px;
-	transform: scale(1) rotate(-55deg);
+
+
+.word_3 {
+	position: relative;
+	top: -6450px;
+	left: 5px;
 }
 
-#d-1 {
-	position: absolute;
-	left: 620px;
-	top: 2245px;
-	transform: scale(1) rotate(-55deg);
-}
-
-#e-1 {
-	position: absolute;
-	left: 852px;
-	top: 1915px;
-	transform: scale(1) rotate(-55deg);
-}
-
-#r-1 {
-	position: absolute;
-	left: 1045px;
-	top: 1635px;
-	transform: scale(1) rotate(-55deg);
-}
-
-#n-1 {
-	position: absolute;
-	left: 1175px;
-	top: 1455px;
-	transform: scale(1) rotate(-55deg);
-}
-
-#o-2 {
-	position: absolute;
-	left: 1345px;
-	top: 1180px;
-	transform: scale(1) rotate(-55deg);
-}
-
-#h-1 {
-	position: absolute;
-	left: 1596px;
-	top: 874px;
-	transform: scale(1) rotate(-55deg);
-}
-
-#o-3 {
-	position: absolute;
-	left: 1710px;
-	top: 690px;
-	transform: scale(1) rotate(-55deg);
-
+.text_three {
+	position: relative;
+	top: 10px;
+	left: -70px;
+	/*transform: rotate(34deg);*/
 }
 
 
@@ -311,60 +360,7 @@ head {
 
 
 
-.square-1 {
-	position: absolute;
-	width: 760px;
-	height: 190px;
-	left: 53
-	0px;
-	top: 260px;
-	background: red;
-	transform: rotate(-145deg);
-}
 
 
 
 
-
-
-
-
-											/*#a-1 {
-												position: absolute;
-												left: 250px;
-												transform: scale(75%) rotate(-45deg);
-											}
-
-											.letter-6 {
-												position: absolute;
-												left: 55px;
-												top: 208px;
-												transform: scale(75%) rotate(-45deg);
-											}
-
-											#b-1 {
-												position: absolute;
-												left: 480px;
-												top: -210px;
-												transform: scale(75%) rotate(-45deg);
-											}
-											#a-2 {
-												position: absolute;
-												left: -150px;
-												top: 408px;
-												transform: scale(75%) rotate(-45deg);
-											}
-
-											#a-3 {
-												position: absolute;
-												left: 579px;
-												top: -321px;
-												transform: scale(75%) rotate(-45deg);
-											}
-
-											#b-2 {
-												position: absolute;
-												left: -247px;
-												top:  517px;
-												transform: scale(75%) rotate(-45deg);
-											}*/
