@@ -9,11 +9,19 @@
 
 */
 
-
-/*.first-text {
-	
+.sizing {
+	width: 100%px;
+	max-width: 500px;
+	margin: auto;
+	height: 6500px;
 }
-*/
+
+@media (max-width: 1000px) {
+	.sizing {
+		max-width: 100%;
+	}
+}
+
 
 .description {
 	position: absolute;
@@ -177,8 +185,12 @@
 
 
 
-
-
+/*
+@media (max-width:500px){
+head {
+	transform: scale(.7);
+}
+*/
 
 
 
