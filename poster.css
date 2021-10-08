@@ -96,62 +96,62 @@
 	background: red;
 }
 
-.letter_1 {
-	position: relative;
-/*	transform: scale(.5) rotate(-55deg);*/
-}
+/*.letter_1 {
+	position: absolute;
+	transform: scale(.5) rotate(-55deg);
+}*/
 
 #y-1 {
-/*	position: absolute;*/
+	position: absolute;
 	left: 0px;
 	top: 700px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #v-1 {
-	/*position: absolute;*/
+	position: absolute;
 	left: -75px;
 	top: 810px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #s-1 {
-	/*position: absolute;*/
+	position: absolute;
 	left: 110px;
 	top: 545px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #t-1 {
-	/*position: absolute;*/
+	position: absolute;
 	left: 195px;
 	top: 435px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #a-1 {
-	/*position: absolute;*/
+	position: absolute;
 	left: 272px;
 	top: 308px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #v-2 {
-	/*position: absolute;*/
+	position: absolute;
 	left: 393px;
 	top: 145px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #k-1 {
-	/*position: absolute;*/
+	position: absolute;
 	left: 465px;
 	top: 40px;
 	transform: scale(.5) rotate(-55deg);
 }
 
 #a-3 {
-	/*position: absolute;*/
+	position: absolute;
 	left: 540px;
 	top: -80px;
 	transform: scale(.5) rotate(-55deg);
