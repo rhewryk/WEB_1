@@ -1,0 +1,96 @@
+.nav_bar {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 3000px;
+	height: 105px;
+	background-color: #d2190b;
+}
+		.TTC {
+			position: absolute;
+			top: 5px;
+			left: 20px;
+			color: white;
+			font-family: futura, sans-serif;
+			font-weight: 400;
+			font-style: normal;
+			font-size: 50pt;
+			letter-spacing: 4pt;
+		}
+
+			.TTC:hover {
+				cursor: pointer;
+				font-weight: 700;
+			}
+
+			.to_transit_c {
+				position: absolute;
+				top: 20px;
+				left: 150px;
+				width: 100px;
+				color: white;
+				font-family: futura, sans-serif;
+				font-weight: 300;
+				font-style: normal;
+				font-size: 11pt;
+				letter-spacing: 1.5pt;
+			}
+
+.nav_button {
+	position: absolute;
+	width: 175px;
+	height: 105px;
+	top: 0px;
+	background-color: #d2190b;
+	color: white;
+	font-family: niveau-grotesque, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 12pt;
+	text-align: center;
+	line-height: 105px;/* THIS IS A LIFE SAVER!!!! :)*/
+}
+
+			.nav_button:hover {
+				background-color: white;
+				color: #d2190b;
+				cursor: pointer;
+			}
+
+				#link_one {
+					left: 935px;
+					width: 140px;
+					font-weight: 800; /*Need to figure out a way to make this more noticable but not crazy out of place*/
+				}
+
+				#link_two {
+					left: 1075px;
+					width: 185px;
+				}
+
+				#link_three {
+					left: 1260px;
+					width: 160px;
+				}
+
+				#link_four {
+					left: 1420px;
+					width: 100px;
+				}
+
+				#link_five {
+					left: 1520px;
+					width: 50px;
+				}
+
+
+
+
+/*.bottom_bar {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 3000px;
+	height: 105px;
+	background-color: #000;
+}*/
