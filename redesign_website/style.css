@@ -414,6 +414,7 @@ nav {
 	}
 
 		#head_image {
+			display: inline-block;
 			position: relative;
 			max-width: 1300px;
 			align-items: center;
