@@ -36,71 +36,44 @@
 
 <div class="cols-12">
 		<h2>TRIP PLANNER</h2>
+		<br />
 	</div>
 	
-	<!-- <div class="cols-6">
-		<h3>This is an H3 This is an H3 This is an H3 This is an H3 This is an H3 This is an H3 This is an H3</h3>
-	</div>
+<!-- 
+	this is from -->
 
-	<div class="cols-12">
-		<h4>This is an H4 This is an H4 This is an H4 This is an H4 This is an H4 This is an H4 This is an H4 This is an H4</h4>
-	</div>
-
-	<div class="cols-6">
-		<h5>This is an H5 This is an H5 This is an H5 This is an H5 This is an H5 This is an H5 This is an H5 This is an H5 This is an H5</h5>
-	</div> -->
-
-
+<div class="cols-2">
 <div class="rectangle_fill_in" id="from_">
 	<input id="from" type="text" placeholder="FROM"> <!-- FROM --></div>
 
 
+<!-- this is to -->
+<br />
 <div class="rectangle_fill_in" id="to_">
-	<input id="to" type="text" placeholder="TO"> <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br /><!-- TO --></div>
+	<input id="to" type="text" placeholder="TO"> 
+</div>
 
-								<!-- <div class="arrival_departure">
-									<select id="way" placeholder="ARRIVAL"></select></div> -->
 
+</div>
+
+<!-- this is departure/arrival -->
+
+<div class="cols-1">	
 <div class="form1"> <form id="form_1">
 		<select id="direction" name="direction">
 			<option value="D">DEPARTURE</option>
-			<option value="A">ARRIVAL</option></select></form></div>
+			<option value="A">ARRIVAL</option></select>
+		</form>
+	</div>
+</div>
 
+
+
+	
+
+	<!-- this is the first 00 -->
+
+<div class="cols-2">
 <div class="form2"> <form id="form_2">
 		<select id="hour" name="hour">
 			<option value="0">00</option>
@@ -110,7 +83,7 @@
 			<option value="4">04</option>
 			<option value="5">05</option>
 			<option value="6">06</option>
-			<option vlaue="7">07</option>
+			<option value="7">07</option>
 			<option value="8">08</option>
 			<option value="9">09</option>
 			<option value="10">10</option>
@@ -130,7 +103,11 @@
 			<option value="24">24</option></select>
 		</form>
 	</div>
+</div>
 
+<!-- this is the second 00 -->
+
+<div class="cols-6">
 <div class="form3"> <form id="form_3">
 		<select id="minute" name="minute">
 			<option value="00">00</option>
@@ -195,24 +172,93 @@
 			<option value="59">59</option></select>
 		</form>
 	</div>
+</div>
 
-	<div class="symbol">:</div>
+<!-- this is the month -->
+
+<div class="cols-2">
+<div class="form4"> 
+		<select id="date1" name="date1">
+			<option value="Y">JANUARY</option>
+			<option value="F">FEBRUARY</option>
+			<option value="M">MARCH</option>
+			<option value="A">APRIL</option>
+			<option value="M">MAY</option>
+			<option value="J">JUNE</option>
+			<option value="L">JULY</option>
+			<option value="G">AUGUST</option>
+			<option value="S">SEPTEMBER</option>
+			<option value="O">OCTOBER</option>
+			<option value="N">NOVEMBER</option>
+			<option value="C">DECEMBER</option>
+		</select>
+		
+	</div>
+</div>
+
+<!--  day of the month -->
+
+<div class="cols-2">
+<div class="form5"> <form id="form_5">
+		<select id="date2" name="date2">
+			<option value="1">01</option>
+			<option value="2">02</option>
+			<option value="3">03</option>
+			<option value="4">04</option>
+			<option value="5">05</option>
+			<option value="6">06</option>
+			<option value="7">07</option>
+			<option value="8">08</option>
+			<option value="9">09</option>
+			<option value="10">10</option>
+			<option value="11">11</option>
+			<option value="12">12</option>
+			<option value="13">13</option>
+			<option value="14">14</option>
+			<option value="15">15</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+			<option value="19">19</option>
+			<option value="20">20</option>
+			<option value="21">21</option>
+			<option value="22">22</option>
+			<option value="23">23</option>
+			<option value="24">24</option>
+			<option value="25">25</option>
+			<option value="26">26</option>
+			<option value="27">27</option>
+			<option value="28">28</option>
+			<option value="29">20</option>
+			<option value="30">30</option>
+			<option value="31">31</option></select>
+		</form>
+	</div>
+</div>
 
 
+
+<label class="w3-container">ACCESSIBLE TRIP
+	<input type="checkbox"checked="checked">
+	<span class="checkmark"></span>
+</label>
+
+<!-- <br />
+<div class="cols-4"><br />
+<img src="2_subway.jpg" id="text_image">
+</div>
+ -->
+
+
+
+
+
+<br />
+<div class="cols-12" class="plan">
+<button>PLAN TRIP</button>
+</div>
 
 </div>
-<!-- <p>this page  will have a trip planner</p> -->
-
-
-	<!-- 	<div class="t_p_heading">TRIP PLANNER</div> -->
-
-
-
-
-
-
-
-
 
 
 
