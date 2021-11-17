@@ -169,10 +169,7 @@ body {
 /*TRIP PLANNER:*/
 
 		.t_p_heading {
-			position: absolute;
 			color: black;
-			top: 200px;
-			left: 150px;
 			font-family: futura, sans-serif;
 			font-weight: 700;
 			font-style: normal;
@@ -181,123 +178,43 @@ body {
 		}
 
 		input {
-			position: absolute;
 			background-color: #e9e9ed;
-			/*padding:  12px 12px;
-			margin: 8px 0;*/
 			box-sizing: border-box;
 			border-radius: 4px;
 		}
 
-		#from {
-			/*top: 200px;
-			left: 250px;*/
-			height: 45px;
-			width: 200px;
-		}
 			#from:hover {
 				cursor: text;
 			}
-
-		#to {
-			/*top: 280px;
-			left: 250px;*/
-			height: 45px;
-			width: 200px;
-			margin-top: 45px;
-		}
 
 			#to:hover {
 				cursor: text;
 			}
 
 		#form_1 {
-			/*position: absolute;*/
-			/*background-color: #e4e4e4;*/
 			box-sizing: border-box;
 			border-radius: 4px;
-			/*left: 765px;
-			top: 205px;*/
-			height: 45px;
-			width: 100%;
-			transform: scale(1.3);
-			padding-top: 4px;
-			padding-left: 65px;
 		}
 
 		#form_2 {
-			/*position: absolute;*/
-			box-sizing: border-box;
+			box-sizing:  border-box;
 			border-radius: 4px;
-			/*left: 920px;
-			top: 205px;*/
-			height: 45px;
-			width: 100%;
-			transform: scale(1.3);
-			padding-top: 4px;
-			padding-left: 45px;
+			padding-left: 9px;
 		}
 
 		#form_3 {
-			/*position: absolute;*/
 			box-sizing: border-box;
 			border-radius: 4px;
-			/*left: 1005px;
-			top: 205px;*/
-			height: 45px;
-			width: 100%;
-			transform: scale(1.3);
-			padding-top: 4px;
 		}
 
-								/*.symbol {
-									font-family: monospace;
-									position: absolute;
-									top: 205px;
-									left: 725px;
-									font-size: 15pt;
-									width: 100%;
-									padding-top: 3px;
-									padding-left: 65px;
-								}*/
-
 		#form_4 {
-			/*position: absolute;*/
 			box-sizing: border-box;
 			border-radius: 4px;
-			/*left: 780px;
-			top: 280px;*/
-			height: 45px;
-			width: 100%;
-			transform: scale(1.3);
-			padding-top: 7px;
-			padding-left: 241px;
 		}
 
 		#form_5 {
-			/*position: absolute;*/
 			box-sizing: border-box;
 			border-radius: 4px;
-			/*left: 925px;
-			top: 280px;*/
-			height: 45px;
-			width: 100%;
-			transform: scale(1.3);
-			padding-top: 7px;
-			padding-left: 200px;
-		}
-
-		#form_6 {
-			/*position: absolute;*/
-			box-sizing: border-box;
-			border-radius: 4px;
-			/*left: 1010px;
-			top: 280px;*/
-			height: 45px;
-			width: 100%;
-			transform: scale(1.3);
-			padding-top: 7px;
-			padding-left: 15px;
 		}
 
 		input,
@@ -313,18 +230,16 @@ body {
 			color: black;
 		}
 											.w3-container {
+												position: relative;
 												display: block;
-												position: absolute;
-												padding-left: 35px;
-												margin-bottom: 12px;
 												cursor: pointer;
-												font-size: 15px;
+												font-size: 14px;
+												/*padding-left: 35px;
+												margin-bottom: 12px;*/
 												-websit-user-select: none;
 												-moz-user-select: none;
 												-ms-user-select: none;
 												user-select: none;
-												top: 340px;
-												left: 510px;
 											}
 
 											.w3-container input {
@@ -337,10 +252,10 @@ body {
 
 											.checkmark {
 												position: absolute;
-												top: 0;
-												left: 0;
 												height: 25px;
 												width: 25px;
+												padding-left: 10px;
+												padding-top: 4px;
 												background-color: #eee;
 											}
 
@@ -363,8 +278,7 @@ body {
 											}
 
 											.w3-container .checkmark:after {
-												left: 9px;
-												top: 5px;
+												position: relative;
 												width: 5px;
 												height: 10px;
 												border:  solid white;
@@ -585,19 +499,17 @@ button {
 	text-transform: uppercase;
 }
 
+.plan:hover {
+	transform: scale(1.1);
+}
+
+
 button: {
 	cursor: auto;
 }
+
 button:hover {
 	cursor: pointer;
-}
-
-.plan {
-	object-position: bottom;
-	transform: scale(1.3);
-	padding-top: 15em;
-	padding-left: 1em;
-	width: 190px;
 }
 
 
