@@ -1,0 +1,205 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+#page {
+	width: 11in;
+	height: 17in;
+	border: 1px solid #000;
+	transform-origin: 50% 0%;	
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+
+}
+
+
+@media print {
+
+	#page {
+		border: none!important; /*overide the the border around the poster when you print*/
+		transform: scale(1)!important; /*override the page scaling*/
+		position: relative;
+		
+
+	}
+
+}
+
+
+/*** DELETE AND EDIT CONTENT HERE ***/ 
+
+H2 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 90px;
+	top: -10px;
+	left: 200px;
+	text-align: left;
+	max-width: 2100px;
+	font-weight: 300;
+	line-height: 35px;
+	color: 0,0,0,20;
+}
+
+H3 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 50px;
+	top: -10px;
+	left: 100px;
+	text-align: right;
+	max-width: 2500px;
+	font-weight: 300;
+	line-height: 25px;
+	color: 0,0,0,20;
+}
+
+H4 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 90px;
+	top: 0px;
+	left: 705px;
+	text-align: right;
+	max-width: 570px;
+	font-weight: 700;
+	line-height: 25px;
+	color: 0,0,0,16;
+}
+
+H5 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 50px;
+	top:-100px;
+	left: -10px;
+	text-align: left;
+	max-width: 1400px;
+	font-weight: 700;
+	line-height: 40px;
+	color: 0,0,0,10;
+}
+
+H6 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 200px;
+	top: 5px;
+	left: 500px;
+	text-align: right;
+	max-width: 800px;
+	font-weight: 900;
+	line-height: 50px;
+	color: 0,0,0,30;
+}
+
+.h7 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 50px;
+	top: 590px;
+	left: 450px;
+	text-align: right;
+	max-width: 500px;
+	font-weight: 700px;
+	line-height: 15px;
+	color: 0,0,0,60;
+}
+
+
+.h8 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 40px;
+	top: 500px;
+	left: 400px;
+	text-align: left;
+	max-width: 500px;
+	font-weight: 900px;
+	line-height: 30px;
+	color: 0,0,0,24;
+}
+
+.h9 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 140px;
+	top: 400px;
+	left: 400px;
+	text-align: right;
+	max-width: 700px;
+	font-weight: 700px;
+	line-height: 90px;
+	color: 0,0,0,30;
+}
+
+
+H1 {
+	font-family: sans-serif;
+	position: absolute;
+	font-size: 55px;
+	text-align: left;
+	max-width: 700;
+	top: 590px;
+	left: 570px;
+	color: black;
+}
+
+/*p {
+	position: absolute;
+	font-family: sans-serif;
+	font-feature-settings: 300;
+	font-size: 20px;
+}*/
+
+
+
+/*@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Roboto:ital,wght@0,500;1,400&display=swap');
+
+
+	h1, h2, h3 {
+		font-weight: normal;
+		max-width: 85%;
+
+		}
+
+	h1 {
+		font-size: 80px;
+		font-family: 'Baskervville';
+		padding: 30px;
+	}
+
+	h2 {
+		font-size: 50px;
+		padding: 30px;
+	}
+	h3 {
+
+		font-size: 20px;
+		max-width: 100%;
+		text-align: right;
+		transform-origin: 100% 0%;
+		position: absolute;
+		
+		bottom: 0;
+		right: 20px;
+		transform: rotate(90deg);
+		
+
+
+	}
+
+	.diagram__image {
+		margin: 30px;
+		width: 50%;
+
+	}
+*/
+
+
+
+
